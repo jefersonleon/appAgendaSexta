@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Agenda</string>
+    <string name="botao_salvar">Salvar</string>
+    <string name="botao_voltar">Voltar</string>
+</resources>
